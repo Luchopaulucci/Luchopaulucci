@@ -7,7 +7,7 @@
 <h2 align="center">Sobre mí</h2>
 
 <p align="center">
-  Full stack developer de Mendoza, Argentina. Trabajo con Linux y redes, y estudio Ingeniería en Sistemas en la UTN FRM.
+  Full stack developer de Mendoza, Argentina. Estudio Ingeniería en Sistemas en la UTN FRM.
 </p>
 
 <h2 align="center">Contacto</h2>
