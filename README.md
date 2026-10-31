@@ -23,3 +23,34 @@
 </p>
 
 <p align="center"><sub>Pixel art: <a href="https://opengameart.org/content/neon-city-0">neon city</a> por <a href="https://opengameart.org/users/cottonball">cottonball</a> · <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a></sub></p>
+
+<details>
+<summary>· · ·</summary>
+
+```
+                 .  | | | |
+                /|  | | | |
+               | |  | | | |
+               |  \ `--+--'
+                \                 .::::::::::::::::.
+                 \              .::::::::::::::::::::.
+                  \            :::::            :::::
+                   \          ::::    .----.     ::::
+                              ::::   /  ..  \    ::::
+                              ::::   | o  o |    ::::
+                              ::::    \ -- /     ::::
+                              :::::    \__/     :::::
+                               '::::::::::::::::::'
+                                   |::::::::::|
+                                   |::::::::::|
+                                  /::::::::::::\
+                                 /::::::::::::::\
+                                |::::::::::::::::|
+                                |::::::::::::::::|
+                                 \::::::::::::::/
+                                  '------------'
+
+                           Simply lovely
+```
+</details>
+
